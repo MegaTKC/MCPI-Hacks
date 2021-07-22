@@ -1,3 +1,5 @@
+# ChatSpammer / ChatSpam Module
+
 from minecraft.minecraft import Minecraft
 import time
 mc = Minecraft.create()
